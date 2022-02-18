@@ -5,8 +5,8 @@ level of programming with `Python` and `R`. I also have some knowledge of `Java`
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarond&show_icons=true&hide_border&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarond&show_icons=true&hide_border&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarond&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarond&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 cbarond/cbarond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
