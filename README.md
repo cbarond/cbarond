@@ -1,7 +1,6 @@
 ## About me
 
-Hi! My name is Caelan and I am a student at MSU Denver. I'm currently pursuing a major in Statistical Science and a minor in Computer Science. I am at a beginner-intermediate 
-level of programming with `Python`, `R`, `SQL`, and `MongoDB`. I also have some knowledge of `Java`.
+Hi! My name is Caelan and I am a student at MSU Denver. I'm currently pursuing a major in Statistical Science and a minor in Computer Science. I am proficient with `Python`, `R`, and `SAS`. I have also used `SQL`, `MongoDB`, and `Java`.
 
 ---
 
